@@ -2,4 +2,6 @@
     <string name="app_name">NetContentDownload</string>
     <string name="button_web">Download web page</string>
     <string name="button_image">Download image</string>
+    <string name="url"> https://s.inyourpocket.com/gallery/113383.jpg</string>
+    <string name="invalidUrl">Unable to retrieve web page. URL may be invalid</string>
 </resources>
